@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//github.com/merlinabraham95.github.io.git/merlinabraham95.github.io/static/css/main.90c1dcea.chunk.css",
+    "main.js": "//github.com/merlinabraham95.github.io.git/merlinabraham95.github.io/static/js/main.fbff8650.chunk.js",
+    "main.js.map": "//github.com/merlinabraham95.github.io.git/merlinabraham95.github.io/static/js/main.fbff8650.chunk.js.map",
+    "runtime-main.js": "//github.com/merlinabraham95.github.io.git/merlinabraham95.github.io/static/js/runtime-main.7b5be413.js",
+    "runtime-main.js.map": "//github.com/merlinabraham95.github.io.git/merlinabraham95.github.io/static/js/runtime-main.7b5be413.js.map",
+    "static/js/2.956df86d.chunk.js": "//github.com/merlinabraham95.github.io.git/merlinabraham95.github.io/static/js/2.956df86d.chunk.js",
+    "static/js/2.956df86d.chunk.js.map": "//github.com/merlinabraham95.github.io.git/merlinabraham95.github.io/static/js/2.956df86d.chunk.js.map",
+    "index.html": "//github.com/merlinabraham95.github.io.git/merlinabraham95.github.io/index.html",
+    "static/css/main.90c1dcea.chunk.css.map": "//github.com/merlinabraham95.github.io.git/merlinabraham95.github.io/static/css/main.90c1dcea.chunk.css.map",
+    "static/js/2.956df86d.chunk.js.LICENSE.txt": "//github.com/merlinabraham95.github.io.git/merlinabraham95.github.io/static/js/2.956df86d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b5be413.js",
+    "static/js/2.956df86d.chunk.js",
+    "static/css/main.90c1dcea.chunk.css",
+    "static/js/main.fbff8650.chunk.js"
+  ]
+}
